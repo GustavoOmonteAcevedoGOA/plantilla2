@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/GustavoOmonteAcevedoGOA/plantilla1/blob/main/img/EventsService.png)
+![screenshot](https://github.com/GustavoOmonteAcevedoGOA/plantilla2/blob/main/img/EventsService.png)
 
 
 ### Built With
